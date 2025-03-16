@@ -60,6 +60,9 @@ The AI-Powered Email Reply Generator is an intelligent system that automates ema
 **_Frontend:_**<br/>
 ![image alt](https://github.com/Bikram2473/email-reply-generator/blob/00569e4d600dff1fd4dde364d0a58cbfd7875047/front-end.png)
 
+**_AI Reply Generation:_**<br/>
+![image alt](https://github.com/Bikram2473/email-reply-generator/blob/ba1d3558cd4cfc3b0c14a1da802cf9879c9b9997/ai-reply-generator.png)
+The AI Reply button generates the reply from the extension that is created to send an appropriate relevant response.
 
 ## Usage
 **---> _Manual AI Reply Generation:_** Use the React UI to enter email text and get a response.<br/>
