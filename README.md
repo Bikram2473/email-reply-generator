@@ -56,6 +56,9 @@ The AI-Powered Email Reply Generator is an intelligent system that automates ema
       
 **3) _Enable the extension and open an email to see the AI reply button._**
 
+## Results
+
+
 ## Usage
 **---> _Manual AI Reply Generation:_** Use the React UI to enter email text and get a response.<br/>
 **---> _Automatic Reply in Emails:_** Enable the browser extension to generate replies directly within email clients.
