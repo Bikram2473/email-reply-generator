@@ -23,5 +23,40 @@ The AI-Powered Email Reply Generator is an intelligent system that automates ema
 **iii) _AI Model:_** Google Gemini 2.0 Flash<br/>
 
 ## Installation & Setup
-**1) _Clone the repository:_** git clone https
+**1) _Clone the repository:_**<br/> 
+    git clone https://github.com/Bikram2473/email-reply-generator.git<br/>
+    cd email-reply-generator
+
+**2) _Navigate to backend directory:_**<br/>
+    cd email-writer-sb
+
+**3) _Build and run the Spring Boot application:_**<br/>
+    mvn spring-boot:run
+
+**4) _The backend runs on http://localhost:8080._**
+
+## Frontend Setup (React.js)
+**1) _Navigate to frontend directory:_**<br/>
+    cd email-writer-react
+
+**2) _Install dependencies:_**<br/>
+    npm install
+
+**3) _Start the development server:_**<br/>
+    npm start
+
+**4) _The frontend runs on http://localhost:3000_**
+
+## Browser Extension Setup
+**1) _Navigate to the extension directory._**<br/>
+**2) _Load the extension in Chrome:_**<br/>
+      -----> Open chrome://extensions/<br/>
+      -----> Enable Developer Mode (top-right).<br/>
+      -----> Click Load unpacked and select the extension folder.<br/>
+      
+**3) _Enable the extension and open an email to see the AI reply button._**
+
+## Usage
+**---> _Manual AI Reply Generation:_** Use the React UI to enter email text and get a response.<br/>
+**---> _Automatic Reply in Emails:_** Enable the browser extension to generate replies directly within email clients.
 
