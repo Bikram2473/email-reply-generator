@@ -57,6 +57,8 @@ The AI-Powered Email Reply Generator is an intelligent system that automates ema
 **3) _Enable the extension and open an email to see the AI reply button._**
 
 ## Results
+**_Frontend:_**<br/>
+![image alt](https://github.com/Bikram2473/email-reply-generator/blob/00569e4d600dff1fd4dde364d0a58cbfd7875047/front-end.png)
 
 
 ## Usage
