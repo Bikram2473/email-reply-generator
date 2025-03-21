@@ -6,10 +6,10 @@ The AI-Powered Email Reply Generator is an intelligent system that automates ema
 ## Features
 **i) _Automated Email Replies_:** Uses AI to generate context-aware email responses.<br/>
 **ii) _Spring Boot Backend:_** Handles AI processing, API requests, and response generation.<br/>
-**iii)_React.js Frontend:_** Provides a user-friendly interface for configuration and interaction.<br/>
-**iv)_Browser Extension:_** Integrates with email platforms to add an "AI Reply" button for quick responses.<br/>
-**v)_Customizable Responses:_** Users can tweak AI-generated replies before sending.<br/>
-**vi)_Seamless Integration:_** Works with various email services without disrupting workflow.<br/>
+**iii) _React.js Frontend:_** Provides a user-friendly interface for configuration and interaction.<br/>
+**iv) _Browser Extension:_** Integrates with email platforms to add an "AI Reply" button for quick responses.<br/>
+**v) _Customizable Responses:_** Users can tweak AI-generated replies before sending.<br/>
+**vi) _Seamless Integration:_** Works with various email services without disrupting workflow.<br/>
 
 ## How It Works
 **i) _User Receives an Email:_** The browser extension detects incoming emails.<br/>
